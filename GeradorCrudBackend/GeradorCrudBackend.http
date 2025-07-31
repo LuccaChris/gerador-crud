@@ -1,0 +1,6 @@
+@GeradorCrudBackend_HostAddress = http://localhost:5249
+
+GET {{GeradorCrudBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
